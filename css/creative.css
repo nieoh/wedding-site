@@ -96,7 +96,7 @@ aside {
 
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-    color: #eb3812;
+    color: #cad8e6;
 }
 
 .navbar-default .nav > li>a,
@@ -160,7 +160,7 @@ aside {
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
     .navbar-default.affix .navbar-header .navbar-brand:focus {
-        color: #eb3812;
+        color: #cad8e6;
     }
 
     .navbar-default.affix .nav > li>a,
@@ -324,7 +324,6 @@ header .header-content .header-content-inner p {
     margin: 0 auto 20px;
 }
 
-}
 
 .text-primary {
     color: #96B1CE;
